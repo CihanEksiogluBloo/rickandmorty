@@ -1,4 +1,4 @@
-## rickandmorty Rick And Morty Information App
+## Rick And Morty Information App
 
 ###### What's inside?
 - React Native
